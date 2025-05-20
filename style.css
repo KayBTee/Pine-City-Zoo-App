@@ -45,3 +45,33 @@ body {
     text-decoration: none;
     padding-top: 12px;
 }
+
+/*=============MAIN-HOME============*/
+/*pushing our main home cover below so that the header and top tabs do not cut any part of it*/
+#main-home {
+    margin-top: 120px;
+}
+
+#tabs-bottom a {
+    float: left;
+    display: block;
+    width:;
+    height:;
+    font-weight: 700;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
