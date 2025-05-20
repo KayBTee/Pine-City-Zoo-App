@@ -92,7 +92,7 @@ body {
 }
 
 /*=============HYPERLINKS in TABS============*/
-/*Created and styled the info-box containing animal image and description*/
+/*Styled the info-box containing animal image and description*/
 a.info-box {
     text-decoration: none;
     background: rgba(255, 255, 255, .8);
@@ -104,6 +104,7 @@ a.info-box {
     padding: 1px;
 }
 
+/*Further styling of the images in the info-box and all the text and h3*/
 .info-box img {
     height: 70px;
     margin: 10px;
@@ -130,27 +131,21 @@ a.info-box {
     height: 40px;
 }
 
+/*=============INFO BOX FULL============*/
+/*Further styling of the images in the info-box-full and all the text and h3*/
+#info-box-full {
+    background: rgba(255, 255, 255, .8);
+    width: 90%;
+    display: block;
+    margin: auto;
+    margin-top: 12px;
+    padding: 10px;
+}
 
+#info-box-full img {
+    width: 100%;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#info-box-full h3 {
+    text-align: center;
+}
