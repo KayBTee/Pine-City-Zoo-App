@@ -78,7 +78,13 @@ body {
     padding-top: 12px;
 }
 
-
+/*=============HYPERLINKS in TABS============*/
+/*Set our background image which is map-blur*/
+#main {
+    margin-top: 119px;
+    background: url('images/map-blur.png');
+    background-repeat: repeat-y;
+}
 
 
 
